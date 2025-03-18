@@ -1,0 +1,1 @@
+This repository focuses on uncertainty reasoning research, primarily consisting of open-source implementations and custom-built datasets, and encompasses robust modeling for noisy signals, Learning with Noisy Labels (LNL), Out-of-Distribution (OOD) Detection, Domain Generalization (DG), and uncertainty quantification for multi-source information fusion.
