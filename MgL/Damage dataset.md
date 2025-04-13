@@ -1,5 +1,13 @@
 # The *Custom* dataset in MgL
+
+
 ## Dataset download address
+
+### OneDrive 
+https://seueducn1-my.sharepoint.com/:u:/g/personal/dunkin2fir_seueducn1_onmicrosoft_com/EeRFfsbJ0qJFq3JvRtGfdTMBIwfeIRP9lav6GeSJ12kYvg?e=kolg6u
+
+### Drive.google
+https://drive.google.com/file/d/14LgegFDTAp36slXhiB9SkwSs5U_x4JNy/view?usp=drive_link
 
 ### 百度云盘
 
