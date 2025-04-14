@@ -19,4 +19,16 @@ https://drive.google.com/file/d/14LgegFDTAp36slXhiB9SkwSs5U_x4JNy/view?usp=drive
 
 ## Reference format
 
-Certainty from Uncertainty
+The dataset is available for academic research. Please cite the corresponding paper, with the bib format as follows:
+
+```
+@article{Dunkin2025Wisdom,
+  author={Dunkin, Fir and Li, Xinde and Wu, Guoliang and Hu, Chuanfei and Yu, Le and Lu, Xiaoyan and Ge, Shuzhi Sam},
+  journal={IEEE/ASME Transactions on Mechatronics}, 
+  title={Wisdom via Multiple Perspectives: A Multi-granularity Clusters Fusion Approach for Fault Diagnosis with Noisy Labels}, 
+  year={2025},
+  volume={Early Access},
+  pages={1-11},
+  doi={10.1109/TMECH.2025.3558839}
+}
+```
