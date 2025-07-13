@@ -13,7 +13,16 @@ MgL begins by mapping input signals to a latent feature space through the backbo
   year={2025},
   volume={Early Access},
   pages={1-12},
-  keywords={Learning with noisy labels;Information fusion;Confirmation bias;Granular computing;Time series classification},
   doi={10.1109/TII.2025.3567264}
+}
+
+@ARTICLE{Dunkin2025Wisdom,
+  author={Dunkin, Fir and Li, Xinde and Wu, Guoliang and Hu, Chuanfei and Yu, Le and Lu, Xiaoyan and Ge, Shuzhi Sam},
+  journal={IEEE/ASME Transactions on Mechatronics}, 
+  title={Wisdom via Multiple Perspectives: A Multigranularity Clusters Fusion Approach for Fault Diagnosis With Noisy Labels}, 
+  year={2025},
+  volume={Early Access},
+  pages={1-11},
+  doi={10.1109/TMECH.2025.3558839}
 }
 ```
